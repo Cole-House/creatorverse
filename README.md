@@ -2,7 +2,7 @@
 
 Submitted by: **Cole House**
 
-About this web app: **Here is an ap that holds the universe **
+About this web app: **Here is an app that holds the universe**
 
 Time spent: **4** hours
 
