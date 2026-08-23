@@ -2,7 +2,7 @@
 
 Submitted by: **Cole House**
 
-About this web app: **Here is an app that holds the universe**
+About this web app: **Here is an app that holds the universe of all my favorite youtube creators**
 
 Time spent: **4** hours
 
