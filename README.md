@@ -30,22 +30,13 @@ The following **additional** features are implemented:
 
 * [ ] List anything else that you added to improve the site's functionality!
 
-## Video Walkthrough
+## 🎥 Video Walkthrough
 
-Here's a walkthrough of implemented required features:
-
-👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  👉🏿 GIF tool here
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+👉 [Watch the CreatorVerse demo on YouTube](https://youtu.be/EqLeeg1dImo)
 
 ## Notes
 
-Some struggles were setting up the project and how I set-up the routing architecture and it differed from the tutorial
+Some struggles were setting up the project and how I set up the routing architecture and how it differed from the tutorial
 
 ## License
 
