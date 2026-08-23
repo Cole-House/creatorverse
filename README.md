@@ -1,4 +1,4 @@
-# WEB103 Prework - *CreatorVerse *
+# WEB103 Prework - *CreatorVerse*
 
 Submitted by: **Cole House**
 
